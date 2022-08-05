@@ -1,3 +1,3 @@
 Basics 2 contains : 
-> Conditional renderind
+> Conditional rendering
 > Lists
