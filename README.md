@@ -1,4 +1,4 @@
-# Basics iN React
+# Basics in React
 
 Concepts : 
 > Creating Boilerplate using npx create-react-app
